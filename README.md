@@ -32,3 +32,8 @@ membuat akun vercel
 Deploy Project Di vercel
 ![Mendeploy Projet Ke Vercel](src/img/buat%20akun.png)
 
+## Database
+Konfigurasi env untuk database
+
+Membuat database mengunakan Postgres
+![Membuat database](src/img/createdatabase.png)
