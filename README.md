@@ -46,3 +46,7 @@ Memlakukan seed ke database dengan mengunakan perintah npm run seed
 ## Menjelajan database
 Melakukan query di dalam database
 ![query database](src/img/query.png)
+
+## Fetching Data untuk komponen RevenueChart
+Menampilkan RevenueChart di Halaman Dashboard
+![komponen RevenueChart](src/img/RevenueChart.png)
