@@ -37,3 +37,9 @@ Konfigurasi env untuk database
 
 Membuat database mengunakan Postgres
 ![Membuat database](src/img/createdatabase.png)
+
+## Melakukan Seed Ke Database
+
+Memlakukan seed ke database dengan mengunakan perintah npm run seed
+![melakukan seed](src/img/db%20seed.png)
+
