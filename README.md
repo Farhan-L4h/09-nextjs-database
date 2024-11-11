@@ -50,3 +50,7 @@ Melakukan query di dalam database
 ## Fetching Data untuk komponen RevenueChart
 Menampilkan RevenueChart di Halaman Dashboard
 ![komponen RevenueChart](src/img/RevenueChart.png)
+
+## Fetching Data untuk komponen LatestInvoices
+Menampilkan Latest Invoices komponen di dashboard
+![dashoard](src/img/dashboard-2.png)
