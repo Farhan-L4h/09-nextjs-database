@@ -43,3 +43,6 @@ Membuat database mengunakan Postgres
 Memlakukan seed ke database dengan mengunakan perintah npm run seed
 ![melakukan seed](src/img/db%20seed.png)
 
+## Menjelajan database
+Melakukan query di dalam database
+![query database](src/img/query.png)
